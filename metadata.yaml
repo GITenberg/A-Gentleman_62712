@@ -1,0 +1,30 @@
+_repo: A-Gentleman_62712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Egan, Maurice Francis
+    birthdate: 1852
+    deathdate: 1924
+    gutenberg_agent_id: '26158'
+    url: http://www.gutenberg.org/2009/agents/26158
+    wikipedia: https://en.wikipedia.org/wiki/Maurice_Francis_Egan
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcsh 'Self-culture'
+- !lcc 'BJ'
+- GITenberg
+tableOfContents: The need of good manners -- Rules of etiquette -- What makes a gentleman
+  -- What does not make a gentleman -- How to express one's thoughts -- Letter-writing
+  -- What to read -- The home book-shelf -- Shakspere -- Talk, work, and amusement
+  -- The little joys of life.
+title: A Gentleman
+url: http://www.gutenberg.org/ebooks/62712
